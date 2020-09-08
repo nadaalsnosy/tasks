@@ -1,0 +1,75 @@
+body{
+    margin: 0px;
+}
+h1{
+    background-image: url(images/code.jpg);
+    position: sticky;
+    top: 0px;
+    background-size: cover;
+    padding: 40px;
+}
+h2{
+    background-color: orange;
+    padding: 20px;
+}
+h1,h2{
+     color: white;
+     font-size: 100px;
+     text-align: center;
+     font-family: Tahoma, Geneva, sans-serif;
+     margin: 0px;
+}
+span{
+     color: orange;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding:0px 30px;
+    overflow: hidden;
+    background-color: #333333;
+
+}
+li {
+    float: right;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: small;
+    text-decoration: none;
+}
+
+.diff{
+    float:left;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 18px;
+    text-align:center;
+}
+
+
+img{
+    width: 25%;
+    height: 40%;
+    border:1px solid #e0e0e0;
+    margin: 40px 20px;
+    padding: 4px;
+}
+div{
+    display: block;
+    text-align: center;
+}
+
+
+footer{
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    padding: 4px;
+}
